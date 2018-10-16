@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Josue Alva</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Inicio de Sesión</string>
+    <string name="user_fragment">Usuario:</string>
+    <string name="pwd_fragment">Contraseña:</string>
+    <string name="sesion_fragment">Inciar Sesión</string>
+    <string name="registrar_fragment">Registrar usuario</string>
+    <string name="names_fragment">Nombres: </string>
+
+</resources>
