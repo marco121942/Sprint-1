@@ -1,6 +1,6 @@
 Data Base
 --------------
-CREATE DATABASE `jackrutorial` /*!40100 DEFAULT CHARACTER SET utf8 */;
+CREATE DATABASE `login` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
 DROP TABLE IF EXISTS `role`;
 CREATE TABLE  `role` (
